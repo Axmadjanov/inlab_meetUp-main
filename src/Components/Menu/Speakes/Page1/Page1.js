@@ -23,23 +23,13 @@ function menuSpeakers() {
           SPEAKERS
         </Typography>
         <Grid container rowSpacing={3} columnSpacing={8}>
-          <Grid item xs={12} sm={6} md={2}>
+          <Grid item xs={12} sm={6} md={4}>
             <Card />
           </Grid>
-          <Grid item xs={12} sm={6} md={2}>
+          <Grid item xs={12} sm={6} md={4}>
             <Card />
           </Grid>
-          <Grid item xs={12} sm={6} md={2}>
-            <Card />
-          </Grid>
-          <br />
-          <Grid item xs={12} sm={6} md={2}>
-            <Card />
-          </Grid>
-          <Grid item xs={12} sm={6} md={2}>
-            <Card />
-          </Grid>
-          <Grid item xs={12} sm={6} md={2}>
+          <Grid item xs={12} sm={6} md={4}>
             <Card />
           </Grid>
         </Grid>
